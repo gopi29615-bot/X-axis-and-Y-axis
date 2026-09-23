@@ -1,0 +1,18 @@
+#moveableBall{
+        border: 2px solid black;
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        background-color: lavender;
+        position: absolute;
+    }
+
+    #reverseBall{
+        border: 2px solid black;
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        background-color: rgb(30, 30, 211);
+        position: absolute;
+        top: 200px;
+    }
